@@ -1,0 +1,46 @@
+.card {
+    height: 575px !important;
+    width: 350px !important;
+}
+
+.card > img {
+    height: 200px !important;
+    width: 348px;
+}
+
+.card > .adNumber {
+    margin-left: 5px;
+}
+
+.card > .card-body > .card-title {
+    margin-top: -20px;
+}
+
+.card > .card-body > .card-text {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.card > .card-body > .bizPrice {
+    font-size: 15px;
+}
+
+.card > .card-body .bizPrice > i {
+    font-size: 18px;
+}
+
+.card > .card-body > .bizPhone {
+    font-size: 15px;
+}
+
+.card > .card-body .bizPhone > i {
+    font-size: 16px;
+}
+
+.card > .card-body > .bizAddress {
+    font-size: 15px;
+}
+
+.card > .card-body .bizAddress > i {
+    font-size: 15px;
+}
